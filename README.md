@@ -1,9 +1,9 @@
 1. How to run the project
-npm install
-npm run dev
+# npm install
+# npm run dev
 
 Open your browser at:
-http://localhost:3000
+# http://localhost:3000
 
 2. State management & component structure
 ## State management
